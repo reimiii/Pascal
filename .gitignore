@@ -1,5 +1,7 @@
+.idea
 /.idea
-.idea/
+/.idea*
+/.idea/*
 # Delphi compiler-generated binaries (safe to delete)
 *.exe
 *.dll
