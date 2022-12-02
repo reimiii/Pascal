@@ -15,10 +15,10 @@ begin
 
     while i <= n do begin
         write(z,' ');
-        i:=i+1;
-        z:=x+y;
         x:=y;
-        y:=z;
+        z:=x+y;
+        y:=z    ;
+        i:=i+1;
     end;
     ReadLn;
 end.
